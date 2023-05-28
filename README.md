@@ -1,4 +1,4 @@
-# video_player_platform_interface
+# video_player_platform_interface_mux
 
 A common platform interface for the [`video_player`][1] plugin.
 
@@ -23,4 +23,4 @@ See https://flutter.dev/go/platform-interface-breaking-changes for a discussion
 on why a less-clean interface is preferable to a breaking change.
 
 [1]: ../video_player
-[2]: lib/video_player_platform_interface.dart
+[2]: lib/video_player_platform_interface_mux.dart
